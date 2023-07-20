@@ -1,2 +1,3 @@
-    Hi, I’m @Vladyslav-Chilikov, junior C++/Unity dev from Odesa, Ukraine.
+    Hi, I’m @Vladyslav-Chilikov, C++ Developer from Odesa, Ukraine.
+    Hobbies: Gamedev and computer graphics
 
